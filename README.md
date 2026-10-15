@@ -2,9 +2,9 @@
 I'm a student, website developer, and learning multiple languages like C++, HTML, CSS, R, JS, etc. I'm also the initiator of original worldviews MirrorSea and Cibrielle. <br>
 > If you want to know more about MirrorSea, feel free to visit [the Wikidot Site](https://worldofmirrorsea-interactive.wikidot.com/main-page) or [the Fandom Site](https://worldofmirrorsea.fandom.com/wiki/%E9%95%9C%E6%B5%B7_Wiki)! You are welcome to join as a member on the Wikidot site. 
 <br>
-# Find me here! <br>
-- [Personal Wikidot Site](https://nqy-tiny-corner.wikidot.com)
-- 
+__Find me here!__ <br>
+* [Personal Wikidot Site](https://nqy-tiny-corner.wikidot.com)
+* 
 
 <!--
 **Trista-NQY/trista-nqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
