@@ -1,16 +1,19 @@
-## Hey everyone!!! 😊😋
+## Hey everyone!!! 😊😋  
+I'm a student, intermediate website developer, and learning multiple languages like C++, HTML, CSS, R, JS, etc. I'm also the initiator of original worldviews MirrorSea and Cibrielle. I am in charge of most MirrorSea staff duty and arrangements.   
+> If you want to know more about MirrorSea, feel free to visit [the Wikidot Site](https://worldofmirrorsea-interactive.wikidot.com/main-page) or [the Fandom Site](https://worldofmirrorsea.fandom.com/wiki/%E9%95%9C%E6%B5%B7_Wiki)! You are welcome to join as a member on the Wikidot site.  
 
-I'm a student, website developer, and learning multiple languages like C++, HTML, CSS, R, JS, etc. I'm also the initiator of original worldviews MirrorSea and Cibrielle. 
+**💦What I am working on:**  
 
-> If you want to know more about MirrorSea, feel free to visit [the Wikidot Site](https://worldofmirrorsea-interactive.wikidot.com/main-page) or [the Fandom Site](https://worldofmirrorsea.fandom.com/wiki/%E9%95%9C%E6%B5%B7_Wiki)! You are welcome to join as a member on the Wikidot site. 
+- MirrorSea Project: Wikidot Site & Github site development  
+- 
 
-**Find me here!**
+**✨My different sites:**   
 
--> [Personal Wikidot Site](https://nqy-tiny-corner.wikidot.com)
-
--> [Bilibili account #1](https://space.bilibili.com/3690991712209394)
-
--> [Bilibili account #2](https://space.bilibili.com/1437519403)
+- [Personal Wikidot Site](https://nqy-tiny-corner.wikidot.com)  
+- [MirrorSea Wikidot Site](https://worldofmirrorsea-interactive.wikidot.com/main-page)  
+- [MirrorSea Fandom Site](https://worldofmirrorsea.fandom.com/wiki/%E9%95%9C%E6%B5%B7_Wiki)  
+- [Bilibili account #1](https://space.bilibili.com/3690991712209394)  
+- [Bilibili account #2](https://space.bilibili.com/1437519403)  
 
 <!--
 **Trista-NQY/trista-nqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
