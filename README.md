@@ -17,7 +17,8 @@ I'm a student, intermediate website developer, and learning multiple languages l
 
 **✨My different sites:**   
 
-- [Personal Wikidot Site](https://nqy-tiny-corner.wikidot.com)  
+- [Personal Wikidot Site](https://nqy-tiny-corner.wikidot.com)
+- [My email](mailto:trista-nqy.dreampuff@proton.me)
 - [MirrorSea Wikidot Site](https://worldofmirrorsea-interactive.wikidot.com/main-page)  
 - [MirrorSea Fandom Site](https://worldofmirrorsea.fandom.com/wiki/%E9%95%9C%E6%B5%B7_Wiki)  
 - [Bilibili account #1](https://space.bilibili.com/3690991712209394)  
